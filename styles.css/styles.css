@@ -1,0 +1,27 @@
+.header{
+    text-align: center;
+    background-image: url("../images/Banner\ Image.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 18px;
+    /* margin-top: none; */
+    border-image-width: 1320px;
+    margin: 140px ;
+    box-shadow:50px black;
+    height: 600px;
+    
+}
+.happy{
+    font-size: 32px;
+    color: #FFFFFF;
+    margin-top: 100px;
+}
+.new{
+    font-size: 72px;
+    color: #FFFFFF;
+    margin-top: 200px;
+    font-weight: bold;
+}
+.banner{
+    text-align: center;
+}
