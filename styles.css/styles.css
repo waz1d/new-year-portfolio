@@ -5,8 +5,8 @@
     background-position: center;
     border-radius: 18px;
     /* margin-top: none; */
-    border-image-width: 1320px;
-    margin: 140px ;
+    /* border-image-width: 1320px; */
+    /* margin: 140px ; */
     box-shadow:50px black;
     height: 600px;
     
@@ -24,4 +24,25 @@
 }
 .banner{
     text-align: center;
+}
+main{
+    width: 1320px;
+    margin: 0px auto;
+}
+.third-banner{
+    background-image: url("../images/Vectorrr.png");
+    height: 600px;
+    background-position: center,top right;
+}
+.leka{
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 150px;
+    background-image: url("../images/Group\ 70.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 50px;
+}
+.fourth-banner{
+   
 }
