@@ -23,4 +23,21 @@
 .first-banner{
     align-items: center;
     justify-content: center;
+    box-shadow: top 5px;
+}
+.second-banner{
+    text-align: center;
+}
+.third-banner{
+    background-image: url("../images/Vectorrr.png") , url("../images/Group\ 70.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+     border-radius: 18px;
+     width: 1320px;
+     justify-content: centre;
+     align-items: center;  
+}
+.third-banner[type="h2"],[type="p"]{
+    padding: 50px;
 }
