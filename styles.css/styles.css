@@ -6,8 +6,6 @@
     font-variation-settings:
       "wdth" 100;
   }
-.main{
-}
 .first-banner{
     color: white;
     background-image: url("../images/Banner\ Image.png") , url("../images/Rectangle\ 15.png");
@@ -38,6 +36,7 @@
      justify-content: centre;
      align-items: center;  
 }
-.third-banner[type="h2"],[type="p"]{
+.third-banner{
     padding: 50px;
+    
 }
